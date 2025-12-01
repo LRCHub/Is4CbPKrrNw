@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "UNFOLDiNG HARMONY",
+  "base_artist": "IDOLiSH7",
+  "createdAt": "2025-12-01T13:54:03.874071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UNFOLDiNG HARMONY",
+      "artist": "IDOLiSH7",
+      "has_synced": false,
+      "path": "select/01_UNFOLDiNG_HARMONY_IDOLiSH7.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNFOLDiNG HARMONY",
+      "artist": "IDOLiSH7",
+      "has_synced": false,
+      "path": "select/pl_01_UNFOLDiNG_HARMONY_IDOLiSH7.txt"
+    }
+  ]
+}
